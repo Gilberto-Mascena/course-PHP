@@ -1,1 +1,1 @@
-# *Aulas de PHP*
+# *Curso de PHP*
