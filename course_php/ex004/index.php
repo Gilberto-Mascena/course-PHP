@@ -20,9 +20,9 @@
 
             // Em PHP, os tipos primitivos escalares são: int, float, (Real, até a 7.4), string e bool.
             // Em PHP, 0x=hexadecimal, 0=octal e 0b=binary.
-
-            $numero1 = 300;
-            echo "<p class=\"paragraph\">O valor da variável 1 é = <span class=\"value\">$numero1</span><br></p>";
+            // Cosntantes são variáveis que não podem ser alteradas e são definidas com a função define() ou com a palavra reservada const.
+            const NUMERO1 = 300;            
+            echo "<p class=\"paragraph\">O valor da variável 1 é = <span class=\"value\">".NUMERO1."</span><br></p>";
 
             // Hexadecimal
             $numero2 = 0x1A;
@@ -36,9 +36,12 @@
             $numero4 = 0123;
             echo "<p class=\"paragraph\">O valor da variável 4 é = <span class=\"value\">$numero4</span><br></p>";
 
-           // $variavel = 3.14;
-           //var_dump() é uma função que retorna o tipo e o valor da variável.
-           // var_dump($variavel);
+            // $variavel = 3.14;
+            // var_dump() é uma função que retorna o tipo e o valor da variável.
+            // var_dump($variavel);
+
+            // $variavel = (int) "3.14"; // Type casting
+            // var_dump($variavel);
 
             ?>
 
