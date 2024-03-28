@@ -1,5 +1,5 @@
 **Mudanças nesta Versão**_
 
 - Mudanças nesta release:
-    - _Aulas de PHP V8_
+    - _Curso de PHP 8_
     - _Adicionado workflow_
