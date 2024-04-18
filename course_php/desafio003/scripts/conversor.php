@@ -17,7 +17,7 @@
         <?php 
         
             $cotacaoDolar = 5.24;
-            $valorEmReais = $_REQUEST["valor"];
+            $valorEmReais = $_REQUEST["valor"] ?? 0;
             $valorEmDolar = $valorEmReais / $cotacaoDolar;
 
             /*
