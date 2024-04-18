@@ -12,7 +12,7 @@
 
     <main>
 
-        <h1>Conversor de moedas</h1>
+        <h1>Valor convertido</h1>
 
         <?php 
         
@@ -28,7 +28,7 @@
             echo "<p>Seus " . numfmt_format_currency($padaoFormatacaoInternacional, $valorEmReais, "BRL") . "Equivalem a " . numfmt_format_currency($padaoFormatacaoInternacional, $valorEmDolar, "USD"), "</p>"
             */
 
-            echo "<p>Seus R\$" . number_format($valorEmReais, 2, ",", ".") . " equivalem à US\$" . number_format($valorEmDolar, 2, ",", "."), "</p>";
+            echo "<p>Seus R\$" . number_format($valorEmReais, 2, ",", ".") . " equivalem à US\$" . number_format($valorEmDolar, 2, ",", ".") . "</p>";
 
         ?>
 
