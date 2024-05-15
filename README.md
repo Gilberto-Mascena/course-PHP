@@ -10,7 +10,7 @@
 
 ## *Tecnologias usadas*
 
-  <img alingn="center" alt="Gilberto Mascena-docker" heitght="25" width="40"   
+  <img align="center" alt="Gilberto Mascena-docker" heitght="25" width="40"   
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />          
             
   <img align="center" alt="Gilberto Mascena-html" height="25" width="40"  
