@@ -1,8 +1,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://Gilberto-Mascena/course-PHP)
-![license](https://img.shields.io/github/license/Gilberto-Mascena/course-PHP)
-[![GitHub stars](https://img.shields.io/github/stars/Gilberto-Mascena/course-PHP)](https://GitHub.com/Gilberto-Mascena/course-PHP)
-[![GitHub issues](https://img.shields.io/github/issues/Gilberto-Mascena/course-PHP)](https://GitHub.com/Gilberto-Mascena/course-PHP)
-![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/course-PHP?include_prereleases)
+[![license](https://img.shields.io/github/license/Gilberto-Mascena/course-PHP)](https://github.com/Gilberto-Mascena/course-PHP/blob/main/LICENSE.md)
+[![GitHub stars](https://img.shields.io/github/stars/Gilberto-Mascena/course-PHP)](https://github.com/Gilberto-Mascena/course-PHP/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Gilberto-Mascena/course-PHP)](https://github.com/Gilberto-Mascena/course-PHP/issues)
+[![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/course-PHP?include_prereleases)](https://github.com/Gilberto-Mascena/course-PHP/releases)
 ![release](https://img.shields.io/github/release-date/Gilberto-Mascena/course-PHP)
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/course-PHP)
 
