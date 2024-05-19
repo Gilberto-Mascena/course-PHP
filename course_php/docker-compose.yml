@@ -4,7 +4,7 @@ services:
       php:8.2-apache
     container_name: meu-php
     volumes:
-      - /Volumes/SeagateMacOS/course-PHP:/var/www/html
+      - /Volumes/SeagateMacOS/course-PHP/course_php:/var/www/html
     ports:
       - "80:80"
       - "443:443"
