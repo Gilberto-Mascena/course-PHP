@@ -30,6 +30,16 @@
 
    ##
 
+   ## *Dependências*
+
+   ### *PDO e MySQLi para conexão com o MySQL*
+
+   *_execute no container e restart:_* ```docker compose exec php docker-php-ext-install pdo pdo_mysql mysqli```
+
+   *_Caso dê erro ao instalar a extensão no Ubuntu 24.04 LTS, baixar uma imagen mais recente do PHP-Apache do [*Docker HUB*](https://hub.docker.com/r/thekingscode/php8.2-apache)_* 
+   
+   ##
+
    ## *Licença* 
 
 *The* [*MIT License*](LICENSE.md) (*MIT*)
