@@ -1,2 +1,8 @@
+### macOS ###
 .DS_Store
-.github/.DS_Store
+
+### workflow ###
+.github/*
+
+### environment variable ###
+.env
