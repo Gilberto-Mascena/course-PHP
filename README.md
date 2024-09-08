@@ -41,6 +41,6 @@ docker compose exec php docker-php-ext-install pdo pdo_mysql mysqli
 
 ## *Licença* 
 
-*The* [*MIT License*](LICENSE.md) (*MIT*)
+[*Licença MIT*](LICENSE.md) (*MIT*)
 
-*Copyright :copyright: 2023* 
+*Gilberto | Dev 2023* 
