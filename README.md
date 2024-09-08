@@ -1,3 +1,6 @@
+[English](https://github.com/Gilberto-Mascena/course-PHP/blob/main/README-en.md) |
+[Português Brasileiro](https://github.com/Gilberto-Mascena/course-PHP/blob/main/README.md)
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://Gilberto-Mascena/course-PHP)
 [![license](https://img.shields.io/github/license/Gilberto-Mascena/course-PHP)](https://github.com/Gilberto-Mascena/course-PHP/blob/main/LICENSE.md)
 [![GitHub stars](https://img.shields.io/github/stars/Gilberto-Mascena/course-PHP)](https://github.com/Gilberto-Mascena/course-PHP/stargazers)
