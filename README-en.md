@@ -25,6 +25,28 @@
 
 ---
 
+## *How to run the project*
+
+### *Requirements:*
+
+- [Docker](https://www.docker.com/products/docker-desktop/) 
+- [Docker engine for Linux](https://docs.docker.com/engine/install/)
+
+> [!IMPORTANT]
+> _In docker-compose.yml, change the project path_
+
+#### *On **Linux** navigate to the `course_php` directory and create a `.env` file and enter your database credentials, now run the command below*
+
+```
+docker compose start
+```
+- _To stop the container_
+    - _Run the command below_
+
+```
+docker compose stop
+```
+
 ## *Dependencies*
 
 ### *PDO and MySQLi to connect to MySQL*
