@@ -35,6 +35,8 @@
 > [!IMPORTANT]
 > _In docker-compose.yml, change the project path_
 
+<img src="./assets/docker-compose.png">
+
 #### *On **Linux** navigate to the `course_php` directory and create a `.env` file and enter your database credentials, now run the command below*
 
 ```
