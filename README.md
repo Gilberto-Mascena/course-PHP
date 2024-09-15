@@ -35,6 +35,8 @@
 > [!IMPORTANT]
 > _No docker-compose.yml, alterar o caminho do projeto_
 
+<img src="./assets/docker-compose.png">
+
 #### *No **Linux** navegue para o diretório `course_php` e crie um arquivo `.env` e insira suas credenciais para a base de dados, agora execute o comando abaixo*
 
 ```
