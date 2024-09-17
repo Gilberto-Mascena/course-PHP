@@ -37,16 +37,23 @@
 
 <img src="./assets/docker-compose.png">
 
-#### *No **Linux** navegue para o diretório `course_php` e crie um arquivo `.env` e insira suas credenciais para a base de dados, agora execute o comando abaixo*
+#### *No **Linux** navegue até o diretório `course_php` e crie um arquivo `.env` e insira suas credenciais de banco de dados, agora execute o comando abaixo para criar os contêineres*
+
+```
+docker compose up -d
+```
+
+- _Pra parar os contêineres_
+    - _Execute o comando abaixo_
+```
+docker compose stop
+```
+- _Pra iniciar os contêineres_
+    - _Execute o comando abaixo_
+
 
 ```
 docker compose start
-```
-- _Pra parar o container_
-    - _Execute o comando abaixo_
-
-```
-docker compose stop
 ```
 
 ## *Dependências*
